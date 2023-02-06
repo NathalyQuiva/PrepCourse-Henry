@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo 2 del PrepCpourse de Henry
+Nathaly Quiva 
+Prueba de como crear un repositorio y clonarlo desde git hub a mi computador 
